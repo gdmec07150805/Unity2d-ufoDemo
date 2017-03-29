@@ -1,0 +1,10 @@
+5.5.1f1:2.8.2.0
+StandaloneWindows
+D:/游戏开发综合/Editor/Data/Managed/UnityEngine.dll
+D:/游戏开发综合/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/游戏开发综合/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/游戏开发综合/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+D:/游戏开发综合/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/游戏开发综合/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+D:/游戏开发综合/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+D:/游戏开发综合/Editor/Data/Managed/UnityEditor.dll
